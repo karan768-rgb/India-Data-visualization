@@ -38,17 +38,6 @@ Users can:
 - Pandas  
 
 ---
-
-## Project Structure
-
-India-Data-visualization/
-│
-├── app.py
-├── india.csv
-├── requirements.txt
-└── README.md
----
-
 ## Key Learnings
 
 - Working with geospatial data in Plotly
